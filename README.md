@@ -30,3 +30,6 @@ Analyzes customer data to predict churn and identify key retention drivers.
 ## Requirements
 - Python 3.x
 - pandas, numpy, scikit-learn, matplotlib, seaborn
+
+![Uploading image.png…]()
+
